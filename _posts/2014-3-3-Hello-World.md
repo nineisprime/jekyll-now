@@ -1,7 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello world
 ---
 
-Bah, what is this?
-Hello!
+In the beginning was the word ...
