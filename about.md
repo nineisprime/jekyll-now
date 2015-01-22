@@ -11,7 +11,6 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - [Rina Foygel Barber] (http://www.stat.uchicago.edu/~rina/)
 - [Tracy Zheng Ke] (http://www.stat.uchicago.edu/~zke/)
 
-and more ...
 
 #### Students and Post-docs
 
