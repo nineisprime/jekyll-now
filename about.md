@@ -10,6 +10,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - [John Lafferty] (https://galton.uchicago.edu/~lafferty/)
 - [Rina Foygel Barber] (http://www.stat.uchicago.edu/~rina/)
 - [Ryota Tomioka](http://ttic.uchicago.edu/~ryotat/)
+- [Mladen Kolar](http://sites.coffeejunkies.org/mkolar/)
 - [Tracy Zheng Ke] (http://www.stat.uchicago.edu/~zke/)
 
 #### Students and Post-docs
