@@ -17,7 +17,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Dinah Shender
 - Yuancheng Zhu
 - Ang Li
-- [Min Xu](cs.cmu.edu/~minx)
+- [Min Xu](http://cs.cmu.edu/~minx)
 - Sabyasachi Chatterjee
 - Yuxue Qi
 - Eric Janofsky
