@@ -25,7 +25,9 @@ Welcome to the University of Chicago statistical machine learning reading group.
 
 ## Contact
 
-Organizer: [Min Xu](min.cut@gmail.com)
+Organizers:
+[John Lafferty](lafferty@galton.uchicago.edu), 
+[Min Xu](min.cut@gmail.com)
 
 #### Acknowledgement
 
