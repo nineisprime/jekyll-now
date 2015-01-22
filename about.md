@@ -23,11 +23,10 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Qinqing Zheng
 - Walter Dempsey
 
-### More Information
+### Contact
 
-For more information, contact
-[Min Xu](min.cut@gmail.com)
+Organizer: [Min Xu](min.cut@gmail.com)
 
-### Acknowledgement
+#### Acknowledgement
 
 This page is created with Jekyll, built on [Barry Clark's tutorial template](https://github.com/barryclark/jekyll-now)
