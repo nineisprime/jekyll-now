@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Information
-
 Welcome to the University of Chicago statistical machine learning reading group. We meet every Thursday 3:00 to 4:30pm at Eckhart 312. We present and discuss recent research papers in statistics, machine learning, and related field such as optimization. Everyone is welcome to attend and present.
 
 #### Faculties
