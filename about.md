@@ -21,6 +21,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Yuxue Qi
 - Eric Janofsky
 - Qinqing Zheng
+- Walter Dempsey
 
 ### More Information
 
