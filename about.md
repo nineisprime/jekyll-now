@@ -10,6 +10,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - [John Lafferty] (https://galton.uchicago.edu/~lafferty/)
 - [Rina Foygel Barber] (http://www.stat.uchicago.edu/~rina/)
 - [Tracy Zheng Ke] (http://www.stat.uchicago.edu/~zke/)
+
 and more ...
 
 #### Students and Post-docs
@@ -17,13 +18,12 @@ and more ...
 - Dinah Shender
 - Yuancheng Zhu
 - Ang Li
-- Min Xu
+- [Min Xu](cs.cmu.edu/~minx)
 - Sabyasachi Chatterjee
 - Yuxue Qi
 - Eric Janofsky
 - Qinqing Zheng
 - Walter Dempsey
-and more ...
 
 ## Contact
 
