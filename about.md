@@ -22,6 +22,11 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Eric Janofsky
 - Qinqing Zheng
 
-###
+### More Information
 
-[email@domain.com](mailto:email@domain.com)
+For more information, contact
+[Min Xu](min.cut@gmail.com)
+
+### Acknowledgement
+
+This page is created with Jekyll, built on [Barry Clark's tutorial template](https://github.com/barryclark/jekyll-now)
