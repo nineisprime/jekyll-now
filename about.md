@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the University of Chicago statistical machine learning reading group. We meet every Thursday 3:00 to 4:30pm at Eckhart 312. We present and discuss recent research papers in statistics, machine learning, and related fields such as optimization. Everyone is welcome to attend and present. The room seats 30 so don't bring your extended family. :)
+Welcome to the University of Chicago statistical machine learning reading group. We meet every Thursday 3:00 to 4:30pm at Eckhart 312. We present and discuss recent research papers in statistics, machine learning, and related fields such as optimization. Everyone is welcome to attend and present. 
 
 #### Faculties
 - [John Lafferty] (https://galton.uchicago.edu/~lafferty/)
@@ -24,6 +24,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Eric Janofsky
 - Qinqing Zheng
 - Walter Dempsey
+- Lei Sun
 
 ## Contact
 
