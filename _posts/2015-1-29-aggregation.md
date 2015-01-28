@@ -4,8 +4,8 @@ title:
 ---
 
 #### 1/29/2015. Hyper-sparse Optimal Aggregation [JMLR](http://jmlr.org/papers/volume12/gaiffas11a/gaiffas11a.pdf)
-**Authors:** Stephane Gaiffas and Guillaume Lecue
-**Presenter:** Eric Janofsky
+**Authors:** Stephane Gaiffas and Guillaume Lecue  
+**Presenter:** Eric Janofsky  
 **Abstract:** Given a finite set F of functions and a learning sample, the aim of an aggregation procedure is
 to have a risk as close as possible to risk of the best function in F. Up to now, optimal aggregation
 procedures are convex combinations of every elements of F. In this paper, we prove that
