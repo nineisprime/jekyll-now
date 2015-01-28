@@ -25,6 +25,7 @@ Welcome to the University of Chicago statistical machine learning reading group.
 - Qinqing Zheng
 - Walter Dempsey
 - Lei Sun
+- YJ Choe
 
 ## Contact
 
