@@ -3,7 +3,7 @@ layout: post
 title:
 ---
 
-#### A Statistical Model for Tensor PCA [arXiv](http://arxiv.org/abs/1411.1076)  
+#### 2/12/15. A Statistical Model for Tensor PCA [arXiv](http://arxiv.org/abs/1411.1076)  
 **Authors:** Emile Richard and Andrea Montanari  
 **Presenter:** Ryota Tomioka  
 **Abstract:** We consider the Principal Component Analysis problem for large tensors of arbitrary order k under a single-spike (or rank-one plus noise) model. On the one hand, we use information theory, and recent results in probability theory, to establish necessary and sufficient conditions under which the principal component can be estimated using unbounded computational resources. It turns out that this is possible as soon as the signal-to-noise ratio β becomes larger than √Cklogk (and in particular β can remain bounded as the problem dimensions increase). 
