@@ -4,11 +4,10 @@ title: Future Talks
 permalink: /future/
 ---
 
-#### 2/5/15. Topic TBA
-**Presenter:** Ang Li
 
-#### 2/12/15. Topic TBA
-**Presenter:** Ryota Tomioka
+#### Wed March 6th, 2019
+**Presenter** Min Xu
 
-#### 2/19/15. Topic TBA
-**Presenter:** Tracy Zheng Ke
+#### Wed March 13th, 2019
+**Presenter** Pierre Bellec
+
