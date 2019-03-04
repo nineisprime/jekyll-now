@@ -4,9 +4,8 @@ title: Future Talks
 permalink: /future/
 ---
 
-#### 2/5/15. TBA
-**Presenter:** Ang Li
+#### Wed March 6th, 2019
+Presenter: Min Xu
 
-#### 2/12/15. TBA
-**Presenter:** Tracy Ke
-
+#### Wed March 13th, 2019
+Presenter: Pierre Bellec
