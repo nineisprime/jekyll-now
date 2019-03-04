@@ -4,34 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the University of Chicago statistical machine learning reading group. We meet every Thursday 3:00 to 4:30pm at Eckhart 312. We present and discuss recent research papers in statistics, machine learning, and related fields such as optimization. Everyone is welcome to attend and present. 
-
-#### Faculties
-- [John Lafferty] (https://galton.uchicago.edu/~lafferty/)
-- [Rina Foygel Barber] (http://www.stat.uchicago.edu/~rina/)
-- [Ryota Tomioka](http://ttic.uchicago.edu/~ryotat/)
-- [Mladen Kolar](http://sites.coffeejunkies.org/mkolar/)
-- [Tracy Zheng Ke] (http://www.stat.uchicago.edu/~zke/)
-
-#### Students and Post-docs
-
-- Dinah Shender
-- Yuancheng Zhu
-- Ang Li
-- [Min Xu](http://cs.cmu.edu/~minx)
-- Sabyasachi Chatterjee
-- Yuxue Qi
-- Eric Janofsky
-- Qinqing Zheng
-- Walter Dempsey
-- Lei Sun
-- YJ Choe
+Welcome to the Rutgers University statistical machine learning reading group. We meet every Wednesday 4:40 to 5:40pm at Hill 260. We present and discuss recent research papers in statistics, machine learning, and related fields such as optimization. Everyone is welcome to attend and present. 
 
 ## Contact
 
 Organizers:
-[John Lafferty](lafferty@galton.uchicago.edu), 
-[Min Xu](min.cut@gmail.com)
+[Min Xu](http://stat.wharton.upenn.edu/~minx/)
+[Pierre Bellec](https://stat.rutgers.edu/home/PCB71/)
 
 #### Acknowledgement
 
