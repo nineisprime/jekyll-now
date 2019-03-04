@@ -9,8 +9,8 @@ Welcome to the Rutgers University statistical machine learning reading group. We
 ## Contact
 
 Organizers:
-[Min Xu](http://stat.wharton.upenn.edu/~minx/)
-[Pierre Bellec](https://stat.rutgers.edu/home/PCB71/)
+- [Min Xu](http://stat.wharton.upenn.edu/~minx/)
+- [Pierre Bellec](https://stat.rutgers.edu/home/PCB71/)
 
 #### Acknowledgement
 
