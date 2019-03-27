@@ -5,8 +5,6 @@ permalink: /future/
 ---
 
 
-#### Wed March 6th, 2019
-**Presenter** Min Xu
+#### Wed April 3rd, 2019
+**Presenter** Jason Kluswoski
 
-#### Wed March 13th, 2019
-**Presenter** Pierre Bellec
