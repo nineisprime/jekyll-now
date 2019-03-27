@@ -7,7 +7,10 @@ title: March 27th, 2019
 
 #### Authors: Andrew Barron, Mark J. Schervish, Larry Wasserman
 
-#### Abstract: We give conditions that guarantee that the posterior probability of
+**Presenter:** Ruobin Gong
+
+#### Abstract: 
+We give conditions that guarantee that the posterior probability of
 every Hellinger neighborhood of the true distribution tends to 1 almost
 surely. The conditions are 1 a requirement that the prior not put high Ž .
 mass near distributions with very rough densities and 2 a requirement Ž .
@@ -16,4 +19,3 @@ true distribution. The results are based on the idea of approximating the
 set of distributions with a finite-dimensional set of distributions with
 sufficiently small Hellinger bracketing metric entropy. We apply the results to some examples.
 
-**Presenter:** Ruobin Gong
