@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April 3rd, 2019
+title: April 10th, 2019
 ---
 
 ### Convergence Rates of Posterior Distributions [AOS](https://projecteuclid.org/download/pdf_1/euclid.aos/1016218228)
