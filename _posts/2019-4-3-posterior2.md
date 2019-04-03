@@ -9,4 +9,5 @@ title: April 3rd, 2019
 
 **Presenter:** Jason Klusowski
 
-#### Abstract: We consider the asymptotic behavior of posterior distributions and Bayes estimators for infinite-dimensional statistical models. We give general results on the rate of convergence of the posterior measure. These are applied to several examples, including priors on finite sieves, log-spline models, Dirichlet processes and interval censoring.
+#### Abstract: 
+We consider the asymptotic behavior of posterior distributions and Bayes estimators for infinite-dimensional statistical models. We give general results on the rate of convergence of the posterior measure. These are applied to several examples, including priors on finite sieves, log-spline models, Dirichlet processes and interval censoring.
