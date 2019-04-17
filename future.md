@@ -4,6 +4,8 @@ title: Future Talks
 permalink: /future/
 ---
 
-#### Wed April 17rd, 2019
-**Presenter** Hang Deng
+#### Wed April 24th, 2019
+**Presenter** Yisha Yao
+
+
 
